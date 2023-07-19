@@ -1,0 +1,30 @@
+C:\Miguel\Programas mios\Numeration System\bin\Debug\net7.0\Numeration System.exe
+C:\Miguel\Programas mios\Numeration System\bin\Debug\net7.0\Numeration System.deps.json
+C:\Miguel\Programas mios\Numeration System\bin\Debug\net7.0\Numeration System.runtimeconfig.json
+C:\Miguel\Programas mios\Numeration System\bin\Debug\net7.0\Numeration System.dll
+C:\Miguel\Programas mios\Numeration System\bin\Debug\net7.0\Numeration System.pdb
+C:\Miguel\Programas mios\Numeration System\obj\Debug\net7.0\Numeration System.csproj.AssemblyReference.cache
+C:\Miguel\Programas mios\Numeration System\obj\Debug\net7.0\Numeration System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Miguel\Programas mios\Numeration System\obj\Debug\net7.0\Numeration System.AssemblyInfoInputs.cache
+C:\Miguel\Programas mios\Numeration System\obj\Debug\net7.0\Numeration System.AssemblyInfo.cs
+C:\Miguel\Programas mios\Numeration System\obj\Debug\net7.0\Numeration System.csproj.CoreCompileInputs.cache
+C:\Miguel\Programas mios\Numeration System\obj\Debug\net7.0\Numeration System.dll
+C:\Miguel\Programas mios\Numeration System\obj\Debug\net7.0\refint\Numeration System.dll
+C:\Miguel\Programas mios\Numeration System\obj\Debug\net7.0\Numeration System.pdb
+C:\Miguel\Programas mios\Numeration System\obj\Debug\net7.0\Numeration System.genruntimeconfig.cache
+C:\Miguel\Programas mios\Numeration System\obj\Debug\net7.0\ref\Numeration System.dll
+C:\Miguel\Programas mios\ARRAYS, CICLOS\Numeration System\bin\Debug\net7.0\Numeration System.exe
+C:\Miguel\Programas mios\ARRAYS, CICLOS\Numeration System\bin\Debug\net7.0\Numeration System.deps.json
+C:\Miguel\Programas mios\ARRAYS, CICLOS\Numeration System\bin\Debug\net7.0\Numeration System.runtimeconfig.json
+C:\Miguel\Programas mios\ARRAYS, CICLOS\Numeration System\bin\Debug\net7.0\Numeration System.dll
+C:\Miguel\Programas mios\ARRAYS, CICLOS\Numeration System\bin\Debug\net7.0\Numeration System.pdb
+C:\Miguel\Programas mios\ARRAYS, CICLOS\Numeration System\obj\Debug\net7.0\Numeration System.csproj.AssemblyReference.cache
+C:\Miguel\Programas mios\ARRAYS, CICLOS\Numeration System\obj\Debug\net7.0\Numeration System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Miguel\Programas mios\ARRAYS, CICLOS\Numeration System\obj\Debug\net7.0\Numeration System.AssemblyInfoInputs.cache
+C:\Miguel\Programas mios\ARRAYS, CICLOS\Numeration System\obj\Debug\net7.0\Numeration System.AssemblyInfo.cs
+C:\Miguel\Programas mios\ARRAYS, CICLOS\Numeration System\obj\Debug\net7.0\Numeration System.csproj.CoreCompileInputs.cache
+C:\Miguel\Programas mios\ARRAYS, CICLOS\Numeration System\obj\Debug\net7.0\Numeration System.dll
+C:\Miguel\Programas mios\ARRAYS, CICLOS\Numeration System\obj\Debug\net7.0\refint\Numeration System.dll
+C:\Miguel\Programas mios\ARRAYS, CICLOS\Numeration System\obj\Debug\net7.0\Numeration System.pdb
+C:\Miguel\Programas mios\ARRAYS, CICLOS\Numeration System\obj\Debug\net7.0\Numeration System.genruntimeconfig.cache
+C:\Miguel\Programas mios\ARRAYS, CICLOS\Numeration System\obj\Debug\net7.0\ref\Numeration System.dll
